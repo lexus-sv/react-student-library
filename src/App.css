@@ -15,7 +15,6 @@ ul li{
 
 .header {
   grid-area: h;
-  background: cadetblue;
 }
 
 .header img{
@@ -25,10 +24,8 @@ ul li{
 
 .nav {
   grid-area: n;
-  background: grey;
 }
 
 .content {
   grid-area: c;
-  background: whitesmoke;
 }
